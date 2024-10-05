@@ -1,34 +1,53 @@
-# Jeep-Mods
-Got the Jeep 12/25/19
+# Jeep Mods
 
--rocker switch wired up to interior strip lights
+## Getting the Jeep
+I got my Jeep on **12/25/19**, and since then, it has become my main project vehicle. I've been adding and modifying components bit by bit, aiming to improve both the functionality and the look of the Jeep. Here are some of the modifications I've made and what I've learned throughout the process.
 
-I bought the rocker switch, lights, and wiring harness on amazon and just wired the rocker switch to the preexisting panel on my a-pillar. It was hard getting the wiring harness throught the firewall but I found a small hole and after about half an hour I managed to get the harness through (on another project I found a hole in the firewall that takes about 20 seconds to use. I then wired the harness to the battery and back through the firewall to under the passenger seat where the controller for the lights is.
+### Rocker Switch & Interior Lights
+One of the first mods I did was installing a **rocker switch** for some interior strip lights. I purchased the **rocker switch**, **LED strip lights**, and **wiring harness** from Amazon. The idea was to have easy control over the lights from the **A-pillar switch panel**.
 
--train horn
+- **Wiring the Switch**: The most challenging part of this mod was getting the wiring harness through the firewall. Initially, it took me about **30 minutes** to find a suitable hole and get the harness through. Interestingly, on a later project, I discovered a different hole in the firewall that would have taken only **20 seconds** to use. Lesson learned.
+- **Connecting the Lights**: Once the harness was through, I connected it to the **battery** and routed the wiring back through the firewall to reach under the passenger seat, where the controller for the lights is mounted.
 
-I found a train horn at a auto salvage place and basically did the same thing as with the interior lights but this time I found and used the preexisting firewall hole. I'm planning to take the horn off in order to use its rocker switch and harness for a PA system.
+### Train Horn Installation
+I found a **train horn** at an auto salvage yard, and the installation process was similar to the interior lights.
+- I used the preexisting **firewall hole** I found on the second attempt to run the wiring harness, which made the process much faster. 
+- The train horn was a fun addition, but I've been considering removing it to repurpose the rocker switch and wiring harness for a **PA system** instead.
 
--push to start
+### Push-to-Start Project
+The push-to-start mod was ambitious but ultimately didn’t work out. I purchased a **Banvie on-off push switch** and controller, as well as a **race car push-to-start button** with an arming switch. The plan was to wire these into the **A-pillar** to use instead of the Banvie button.
 
-This project took a lot of time and wiring to eventually not work. I bought an on off push switch and controller from ban vie as well as a race car push to start and arming switch which I planned to wire to the a pillar to use instead of banvie's button. After hours of testing and wiring and the engine cranking but not turning over, I came in contact with someone that explained to me how Jeeps use canbus which uses ohms and micro voltages to tell the engine to start which means that you can't hot wire it which is essentially what the banvie system did. I guess the canbus makes sense for jeeps considering the doors and roof will be off for a good portion of its life. Probably saved many jeeps from being stolen but I had to return all of the parts
+- **Wiring Challenges**: I spent hours wiring and testing the system, and while the engine would crank, it wouldn’t turn over. I eventually learned that **Jeeps use a CANbus system**, which relies on **ohms** and **micro-voltages** to send signals to start the engine. Essentially, this makes it impossible to “hotwire” the vehicle, which is essentially what the Banvie system was doing. 
+- **Returning the Parts**: The CANbus system actually makes sense for Jeeps, considering they often have the **doors and roof off**, which could make them more vulnerable to theft. It probably saved many Jeeps from being stolen, but it meant I had to return all the push-to-start components.
 
--painting interior
+### Painting the Interior
+I decided to customize the look of my Jeep's interior by painting the **center dash** and panels **black**.
+- **Process**: I ripped out the center of the dash and painted it. My long-term goal is to have a **black and tan/camel interior**, so I’m taking it step by step.
+- **Challenges with Panels**: While the middle panel looks great and functions perfectly, the **vertical side panels** around it scratched easily despite the **spray paint and clear coat**. For future panels, I plan to use a **plastic adhesion promoter** to make the paint job more durable.
 
-I ripped apart the center of the dash and painted it all black. I plan to make the whole interior black and tan/camel but it will take a while so I'm doing it step by step. The middle panel works perfect and looks great. However, the vertical panels running along the sides of the middle panel allow the spray paint and clear coat to scratch off way too easily so I'll need to get a plastic adhesion promoter.
+### Miscellaneous Fixes & Upgrades (Part 2)
+#### Replacing the Pitman Arm to Drag Link End
+I recently replaced the **pitman arm to drag link end**, which was a time-consuming job but should hopefully reduce the **steering play** in the Jeep.
 
+#### Interior Lights Wiring Issues
+The interior lights sometimes work, but they have been inconsistent. I need to rewire the setup for more reliable performance.
 
+#### Android Screen Upgrade
+I installed a **10.1-inch Android screen** to replace the stock head unit. It adds modern functionality and looks great in the dashboard.
 
-pt 2
+#### Evap Leak Fix
+I still need to get some **sheet metal** to clamp between the exhaust clamps to properly seal the evap system and fix a persistent leak.
 
-Just replaced the pittman arm to drag link end. Took a while but I hope its worth it for the steering play.
+#### Rear Sway Bar Link Bearings
+The **rear sway bar link bearings** need replacing. After some trial and error, I found the perfect **M12 bolts** that fit well and shouldn't keep snapping like the previous bolts.
 
-Still need to rewire the interior lights. They work sometimes but usually don't
+### Regearing Dilemma
+I’ve been researching and planning to **regear the Jeep** myself. Typically, labor costs for this job can be around **$1,000**, which is steep, but it makes me curious about doing it on my own. I’m considering regearing to **4.88s**, the same ratio as stock Rubicons. However, my **Sahara** model comes stock with **4.10s** and features a **Dana 44** axle in the rear and a **Dana 30** in the front.
 
-Got the 10.1in Android screen working
+- **Considering Bigger Axles**: If I want to go with **bigger wheels** in the future, I may need to upgrade to **stronger axles**. This poses a dilemma: regearing the current **Dana 44** could be a waste if I eventually upgrade to **Dana 50s**. 
+- **Budget Constraints**: Currently, I don’t have the budget to do the full upgrade—bigger axles, regear, and new wheels all go hand-in-hand. For now, I might just stick to the stock axles and consider a regear when the time is right.
 
-I really need to go get some sheet metal to clamp in-between the exhaust clamps so I don't have an evap leak.
+---
 
-Also really need to replace the rear sway bar link bearings, I finally found the perfect M12 bolts that work and shouldn't keep snapping.
-
-I've been really looking into regearing the Jeep by myself, but usually to pay someone, the labor alone is 1k. Maybe this should be a sign that the labor is hard and complicated but I still would like to try it. I think I want to go to 4.88s, the same as the stock rubicons. Because I have a Sahara, it comes with stocks 4.10s and a dana 44 in the rear and 30 in the front. I've reached a dilema where I'd like to get beefier axels especially if I want to also get bigger wheels, and in that I shouldn't spend the money regearing a dana 44. However, I don't nearly have the money to get dana 50s and regear them and get bigger wheels, however, they all go hand and hand.
+## Final Thoughts
+This Jeep has been a constant project and learning experience, from interior mods and electrical work to mechanical upgrades. Every fix or upgrade has taught me more about how my vehicle works and has given me the confidence to tackle more ambitious projects in the future.
